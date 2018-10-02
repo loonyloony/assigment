@@ -1,7 +1,7 @@
 # assigment
 BACKEND ASSIGNMENT
 
-# how to 
+# how to run
 - Pull source from github
 - Cd folder
 - Checkout dev branch
